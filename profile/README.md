@@ -4,7 +4,7 @@
 
 🌈 You can contribute with any feedback (issues) and extensions you may think is useful for the community
 
-👩‍💻 You can find more information in the wiki to start with [Wiki](/Arte-con-tecnología/.github/wiki/)
+👩‍💻 You can find more information in the wiki to start with [Wiki](https://github.com/Arte-con-tecnologia/.github/wiki)
 
 <!--
 🍿 Fun facts - what does your team eat for breakfast?
