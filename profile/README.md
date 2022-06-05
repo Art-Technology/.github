@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🙋‍♀️ This repo has the code and material to support the books series of "Arte con Tecnología"
+
 🌈 You can contribute with any feedback (issues) and extensions you may think is useful for the community
+
 👩‍💻 You can find more information in the wiki to start with [Wiki](.github/wiki/)
 
 <!--
